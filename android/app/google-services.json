@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1007559969240",
+    "project_id": "exptrack-6918e",
+    "storage_bucket": "exptrack-6918e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007559969240:android:ee5cd0258966372d8b4aad",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007559969240-v26k8jsfibgq63oathe5d5rm5nsopnff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expense_tracker",
+            "certificate_hash": "8eca0bda102bd74cb3c0bd41853bafd1c701091d"
+          }
+        },
+        {
+          "client_id": "1007559969240-6km13jppfojaec4k1uut8uvhe2c0tr73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9OKQ90nmV3ckjPimFZCxuDsZfGGzAnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007559969240-6km13jppfojaec4k1uut8uvhe2c0tr73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
